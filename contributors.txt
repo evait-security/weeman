@@ -1,0 +1,11 @@
+Weeman contributors
+--------------------
+
+Thanks to these nice people:
+----------------------------
+
+DeveloppSoft (developpsoft.github.io) - Fixed english mistake and list cmd in framework
+Bugzap91 - for the link patch.
+Adrien Kuhn () - for adding Fedora instructions #3.
+lisogallo - 'external_js' option for including external scripts
+

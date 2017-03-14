@@ -1,0 +1,50 @@
+* Version 1.0 <10-09-2015>:
+    Initial release.
+
+* Version 1.1 (Wein) <12-09-2015>:
+	Added redirect to orignal site.
+	Bug fixes
+
+* Version 1.2.2 (Popi) <16-09-2015>:
+	Screenshot updated.
+	Files moved from one script to core/.
+	Bug fixes
+	ASCII logo replaced.
+
+Version 1.3 (ArmWork) <26-09-2015>:
+	Added restore from session.
+	Bug fixes
+
+Version 1.4 (Ping) <05-10-2015>:
+	Added quiet_mode.
+	Bug (#4) fixes.
+	Added root check for port 80.
+	Added html_file option.
+	using optparse
+	Replacing files/images/scripts with full locations.
+	Headers files updated.
+
+Version 1.5 (GreenTree) 10-10-2015:
+	url, action_url http://localhost changed to None
+	Beautifulsoup dependency removed.
+
+Version 1.6 (Black-eagle) 22-11-2015:
+	Added command line options.
+	Added framework.py
+	Added modules/is_website_up.pu module.
+	Code cleanup.
+	Windows not supported!
+
+Version 1.7 (Scratch) 25-03-2016:
+	Added profiles
+	Added module whois_ip.py
+	Added module extract_links.py
+	Added new tool tools/switch_ip_forward.sh
+	Tool Removed tools/weeman_ettercap.sh
+	Core updated.
+	Bug fixes.
+
+Version 1.7.1 (Final):
+  Framework removed.
+  bs4 updated.
+  this is the last version of weeman.
