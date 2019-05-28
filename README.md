@@ -15,5 +15,6 @@ Version 1.7.1 is the last and latest version for weeman.
 * Mac
 
 # Copying
+#Decestar hack 
 
 See 'LICENSE' and lib/bs4/COPYING.txt
